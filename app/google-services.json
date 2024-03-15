@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58715880466",
+    "project_id": "immunify-db-mad",
+    "storage_bucket": "immunify-db-mad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58715880466:android:6132357ea64a2ffbc06ccb",
+        "android_client_info": {
+          "package_name": "com.example.immunify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvnYUuhH5FJSjqSbjA3wD5Tp-9s8KimO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
